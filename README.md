@@ -1,5 +1,5 @@
 # firebase-push-notification
-api backend for sending PN by FCM
+backend api for sending PN by FCM
 
 
 ## Set firebase-admin.json
